@@ -23,7 +23,7 @@ Beberapa catatan mengenai demo program ini:
 
 ### Penggunaan
 > Pastikan anda telah melakukan konfigurasi IP address dan port HSM pada kode sebelum menjalankan program ini. 
-Sebagai contoh, IP address yang digunakan dalam kode ini adalah 192.168.1.100 dan port 1500. 
+Sebagai contoh, IP address yang digunakan dalam kode ini adalah 192.168.1.101 dan port 1500. 
 Anda dapat menggantinya sesuai setting yang anda gunakan.
 
 Konfigurasi IP address dan port HSM dapat anda temukan dalam kode pada baris berikut:
