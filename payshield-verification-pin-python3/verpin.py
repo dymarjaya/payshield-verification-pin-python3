@@ -1,6 +1,4 @@
 # !/usr/bin/python3
-# Author    : Mudito Adi Pranowo, David Abdurrahman
-# Porting by: Mudito Adi Pranowo
 # Company   : PT Dymar Jaya Indonesia
 # This code demonstrate verification PIN offset using Thales payment HSM
 # Note: Require cryptography library -> pip install cryptography
